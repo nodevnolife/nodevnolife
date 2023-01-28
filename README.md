@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/devnolife_"><img src="https://api.daily.dev/devcards/59437a911b4a4e7cbefe9f0521eadee4.png?r=dr4" width="400" alt="devnolife's Dev Card"/></a>
+
